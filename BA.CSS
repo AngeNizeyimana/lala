@@ -1,0 +1,22 @@
+P{
+color: blue;
+font-size: 20;
+
+}
+
+h1{font-size: 32;color: blue;}
+h2{
+	color: goldenrod;
+	font-size: 30px;
+	font-family: chalkduster;
+}
+body{
+	background-color: grey;
+}
+ol{color: goldenrod;
+	font-size: 30px;
+	font-family: chalkduster;
+	color: goldenrod;
+	font-size: 30px;
+	font-family: chalkduster;
+}
